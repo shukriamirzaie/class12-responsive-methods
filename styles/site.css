@@ -21,7 +21,9 @@ body {
   background-color: #efece5;
   color: #000000;
 
-  margin: 0;
+  margin: 0 auto;
+  max-width: 940px;
+
 }
 
 h1 {
@@ -101,7 +103,7 @@ h2 {
 .fit-width {
   display: block;
   width: 100%;
-  max-width: 800px;
+ /* max-width: 800px;*/
   min-width: 400px;
 }
 
